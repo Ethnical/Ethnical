@@ -1,4 +1,4 @@
-<h3 align="left">Ethnical - BlockChain Security Engineer</h3>
+<h3 align="left">Ethnical - Blockchain Security Engineer</h3>
 
 <p> 
     <a href="https://discord.com/users/ethnical" target="_blank"><img alt="Discord"
