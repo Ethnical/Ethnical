@@ -29,12 +29,16 @@
 <h5 align="left">EVM bytecode & SELFDESTRUCT</h5>
 
 <a href="https://blog.mevsec.com/posts/twitterchallenge-puzzle-bytecode-f31ba85c800f4c42a469490f9c2378c0/"><img src="https://github.com/Ethnical/Ethnical/assets/23560242/aa462afd-7b76-41bd-ae36-f8fc49ac6524"  width="60%" height="30%"></a>
+
 [Here](https://blog.mevsec.com/posts/twitterchallenge-puzzle-bytecode-f31ba85c800f4c42a469490f9c2378c0/)
+
+
 ----
 
 <h5 align="left">Reentrancy CTF</h5>
 
 <a href="https://blog.mevsec.com/posts/hacktm-dragon-slayer/"><img src="https://github.com/Ethnical/Ethnical/assets/23560242/711f25ed-8c7c-49eb-ab4b-20de5ad684ee"  width="60%" height="30%"></a>
+
 [Here](https://blog.mevsec.com/posts/hacktm-dragon-slayer/)
 <!-- BLOG-POST-LIST:END -->
 
