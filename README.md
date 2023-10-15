@@ -23,4 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethnical&show_icons=true&theme=dark&locale=en&layout=compact" alt="ethnical" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethnical&show_icons=true&theme=dark&locale=en" alt="ethnical" /></p>
