@@ -1,7 +1,7 @@
 <h3 align="left">Ethnical - Blockchain Security Engineer</h3>
 
 <p> 
-    <a href="https://discord.com/users/ethnical" target="_blank"><img alt="Discord"
+    <a href="https://discord.gg/u8ZQRPEF9n" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
    <a href="https://www.youtube.com/@EthnicalSec" target="_blank"><img alt="Youtube"
         src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 - 📜 Mostly focused on Solidity (smart contracts) & Rust (L1 or tools).
 - 🛠️ Tools builder [Swek3](https://github.com/Ethnical/Swek3)
 - 🔎 Interested in MEV, Fuzzing, EVM.
-- 👥 Building a small blockchain security community.
+- 👥 Building a small blockchain security [community](https://discord.gg/u8ZQRPEF9n).
 - 💻 [Homelab](https://youtu.be/pkA6dGvOM-g?t=74) addict.
 - 📺 [YouTube](https://www.youtube.com/@EthnicalSec) French InfoSec Channel (30k Subs). 
 - 🏡 Currently located in Malta 🇲🇹.
