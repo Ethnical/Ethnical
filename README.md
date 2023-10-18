@@ -17,7 +17,7 @@
 - 📜 Mostly focused on Solidity (smart contracts) & Rust (L1 or tools).
 - 🛠️ Tools builder [Swek3](https://github.com/Ethnical/Swek3)
 - 🔎 Interested in MEV, Fuzzing, EVM.
-- 👥 Building a small blockchain security [community](https://discord.gg/u8ZQRPEF9n).
+- 👥 Building a small blockchain security community [MevSec](https://discord.gg/u8ZQRPEF9n).
 - 💻 [Homelab](https://youtu.be/pkA6dGvOM-g?t=74) addict.
 - 📺 [YouTube](https://www.youtube.com/@EthnicalSec) French InfoSec Channel (30k Subs). 
 - 🏡 Currently located in Malta 🇲🇹.
