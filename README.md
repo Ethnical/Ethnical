@@ -1,4 +1,4 @@
-<h3 align="left">Ethnical - Blockchain Security Engineer</h3>
+<h3 align="left">Ethnical - Blockchain Security Engineer at Optimism 🔴 </h3>
 
 <p> 
     <a href="https://discord.gg/u8ZQRPEF9n" target="_blank"><img alt="Discord"
