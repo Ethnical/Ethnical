@@ -14,7 +14,7 @@
 ### Information
 
 - 🏴‍☠️ CTFer & InfoSec Lover.
-- 📜 Mostly focused on Solidity (smart contracts) & Rust (L1 or tools).
+- 📜 Focused on Solidity, and Rust/Golang for L1 and tooling.
 - 🛠️ Tools builder [Swek3](https://github.com/Ethnical/Swek3)
 - 🔎 Interested in MEV, Fuzzing, EVM.
 - 👥 Building a small blockchain security community [MevSec](https://discord.gg/u8ZQRPEF9n).
