@@ -20,7 +20,6 @@
 - 👥 Building a small blockchain security community [MevSec](https://discord.gg/u8ZQRPEF9n).
 - 💻 [Homelab](https://youtu.be/pkA6dGvOM-g?t=74) addict.
 - 📺 [YouTube](https://www.youtube.com/@EthnicalSec) French InfoSec Channel (30k Subs). 
-- 🏡 Currently located in Malta 🇲🇹.
 - 👨‍💻 My CTF : [https://ctf.mevsec.com/](https://ctf.mevsec.com/)
 - 📝 My Blog: [https://blog.mevsec.com/](https://mevsecurity.github.io/)
 
